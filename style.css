@@ -1,0 +1,50 @@
+body, html {
+  height: 100vh;
+  overflow: hidden;
+  background-image: linear-gradient(to right, #fa709a 0%, #fee140 100%);
+}
+
+#container {
+  text-align: center;
+}
+
+.header {
+  font-family: 'Waiting for the Sunrise', cursive;
+}
+
+.header img {
+  border-radius: 30px;
+  margin-top: 25px;
+  margin-bottom: 10px;
+}
+
+.header h1 {
+  margin-top: 0;
+}
+
+.tomorrow {
+  font-family: 'Waiting for the Sunrise', cursive;
+  font-weight: bold;
+  font-size: 20px;
+  width: 40%;
+  position: relative;
+  margin: 0 auto;
+  color: black;
+  background: white;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.tomorrow:hover {
+  font-family: 'Waiting for the Sunrise', cursive;
+  font-weight: bold;
+  font-size: 20px;
+  width: 40%;
+  position: relative;
+  margin: 0 auto;
+  color: black;
+  background: white;
+  border-radius: 10px;
+  padding: 10px;
+  cursor: pointer;
+}
